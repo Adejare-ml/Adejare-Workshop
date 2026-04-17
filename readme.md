@@ -26,13 +26,7 @@ I build data-driven and AI-powered solutions focused on solving real-world probl
 - AI and data analysis projects (see repositories)  
 - Currently building more real-world solutions  
 
----
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adejare-Workshop&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adejare-Workshop&layout=compact&theme=transparent)
-
----
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/adejare-adelugba](https://linkedin.com/in/yourlink)
