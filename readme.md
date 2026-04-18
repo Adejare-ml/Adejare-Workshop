@@ -44,13 +44,13 @@ Reduced manual work by **85%**
 
 ## Stack
 
-**ML:** PyTorch, TensorFlow, scikit-learn, XGBoost
+**ML:** PyTorch, TensorFlow, scikit-learn, 
 -
-**Data:** Pandas, NumPy, SQL
+**Data:** Pandas, NumPy, SQL, Seaborn, Matplotlib ,Ploty
 -
-**Deployment:** FastAPI, Docker, MLflow
+**Deployment:** FastAPI, Docker, MLflow , Hugging Face Spaces
 -
-**Tools:** Git, Jupyter, Streamlit
+**Tools:** Git, Jupyter, Visual Studio Code , Anacorda Navigator 
 -
 ---
 
